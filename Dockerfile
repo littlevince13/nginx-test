@@ -1,3 +1,3 @@
 FROM nginx
 
-COPY web1/index.html /usr/share/nginx/html
+COPY web2/index.html /usr/share/nginx/html
